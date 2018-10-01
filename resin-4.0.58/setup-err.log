@@ -1,0 +1,16 @@
+﻿2018/10/1 10:24:45starting Setup.exe version : Resin-4.0.54 (built Mon, 02 Oct 2017 05:25:44 PST)
+
+
+2018/10/1 10:24:46此卷不包含可识别的文件系统。
+请确定所有请求的文件系统驱动程序已加载，且此卷未损坏。
+
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.Directory.InternalGetFileDirectoryNames(String path, String userPathOriginal, String searchPattern, Boolean includeFiles, Boolean includeDirs, SearchOption searchOption)
+   在 System.IO.DirectoryInfo.GetDirectories(String searchPattern, SearchOption searchOption)
+   在 Caucho.Setup.FindResin()
+   在 Caucho.Setup..ctor()
+   在 Caucho.Setup.Main(String[] args)
+
+2018/10/1 11:56:37starting Setup.exe version : Resin-4.0.54 (built Mon, 02 Oct 2017 05:25:44 PST)
+
+

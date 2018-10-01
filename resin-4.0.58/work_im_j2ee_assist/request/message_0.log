@@ -1,0 +1,22 @@
+------WebKitFormBoundaryJflotlXNwpYvFjUv
+Content-Disposition: form-data; name="im_from"
+
+sample(2f)script(2f)file(2f)file(5f)main
+------WebKitFormBoundaryJflotlXNwpYvFjUv
+Content-Disposition: form-data; name="im_event"
+
+sample(2f)script(2f)file(2f)file(5f)main
+------WebKitFormBoundaryJflotlXNwpYvFjUv
+Content-Disposition: form-data; name="im_action"
+
+uploadAction
+------WebKitFormBoundaryJflotlXNwpYvFjUv
+Content-Disposition: form-data; name="localFile"; filename=""
+Content-Type: application/octet-stream
+
+
+------WebKitFormBoundaryJflotlXNwpYvFjUv
+Content-Disposition: form-data; name="targetDirPath"
+
+sample/jssp_rpc/hello/
+------WebKitFormBoundaryJflotlXNwpYvFjUv--
